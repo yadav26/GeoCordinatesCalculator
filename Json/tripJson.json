@@ -1,0 +1,282 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVdtAJl6J1moRFXtcDtf5kE0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJAbTmTFOI1moRCW_8ohV8ijQ",
+         "types" : [
+            "establishment",
+            "point_of_interest",
+            "train_station",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -37.8712092,
+               "lng" : 144.7737171
+            },
+            "southwest" : {
+               "lat" : -37.9120355,
+               "lng" : 144.7469522
+            }
+         },
+         "copyrights" : "Map data ©2020",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "7.3 km",
+                  "value" : 7288
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 644
+               },
+               "end_address" : "Williams Landing Station, Palmers Rd, Williams Landing VIC 3027, Australia",
+               "end_location" : {
+                  "lat" : -37.87123440000001,
+                  "lng" : 144.7469826
+               },
+               "start_address" : "8 Carrick St, Point Cook VIC 3030, Australia",
+               "start_location" : {
+                  "lat" : -37.9103464,
+                  "lng" : 144.7723297
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "44 m",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -37.9106187,
+                        "lng" : 144.7726941
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eCarrick St\u003c/b\u003e toward \u003cb\u003eCliff Ln\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tjkfFazrrZt@gA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9103464,
+                        "lng" : 144.7723297
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : -37.9101013,
+                        "lng" : 144.7733478
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCliff Ln\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jlkfFi|rrZgBcC"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9106187,
+                        "lng" : 144.7726941
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -37.9103331,
+                        "lng" : 144.7736275
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAmbient Way\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "bikfFm`srZl@w@"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9101013,
+                        "lng" : 144.7733478
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 2020
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : -37.9099167,
+                        "lng" : 144.7518111
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eSaltwater Promenade\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pjkfFebsrZNQTXrAhBZb@nA`BLPLPNTJRHPDPBDBF@F@DBF@D@F@F@F@F@D@B?B@F@F?D@F?F@F?F?F?F@F?D?F?FAF?F?F?FEh@KbB_@dH[pHKdBYhGYhFEbASpDYnFCRCr@IhBStD?VMjBIvAEv@?Jg@dJMdBa@zIKjAIv@EZE^Gd@It@Cx@CdAKrA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9103331,
+                        "lng" : 144.7736275
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1472
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : -37.8968845,
+                        "lng" : 144.7539569
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePoint Cook Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "~gkfFyynrZCPS@sAI}ASOAgAQICEAIGgDc@o@KG?EAaE_@SAwBUUCOCGAe@EiAOy@KqAMs@I}CYUAg@GeAOOAk@Gg@GGAOAWEI?SCaAKKASCq@IqAOQCsAMEAw@IQC_AIiBSc@Eo@GYB]?{BOQ?K?O@QB"
+                     },
+                     "start_location" : {
+                        "lat" : -37.9099167,
+                        "lng" : 144.7518111
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1051
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : -37.8876101,
+                        "lng" : 144.7557982
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003ePoint Cook Rd\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "nvhfFggorZ?@CBA@C@A@C@A@C?C?C?C?C?AACAAACAEECCACa@OOGSEWCCAQCMAmAQ[Cq@KiAOYEoAQkBYg@KICOGEA_@GkBSuBUi@G_AKYCaCY{@KmAOMA{@IOA]Eg@Gw@G{@GqAIi@BMAWEq@G"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8968845,
+                        "lng" : 144.7539569
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 821
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : -37.8862262,
+                        "lng" : 144.7469522
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDunnings Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "p|ffFwrorZMHUFg@PCZC\\ABCFGFG^G\\KlAObBo@dMEx@GhA?@?@@@?B?L?l@?j@BpA?@@??@@@?@?@@@?@?@?@?@?@?@?@?@?@A@?@?@A@?@A@?@A??@A@A?El@En@E`A?FAHANKlBKvAQ|BGbA"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8876101,
+                        "lng" : 144.7557982
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1419
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : -37.8735727,
+                        "lng" : 144.748886
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePalmers Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|sffFm{mrZUCKCA?g@GQCc@EQCSCg@E_@Ek@Gy@KeD]I@C?aAIQ?QA{@GsBMm@Ga@E_@E]Cm@EYCWEuB[yEq@}AOuAM}@II?a@Eg@E}Eg@u@I}@KE?sAKaAEOA_@CoAEK?MAQAK?C?sA?aAD"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8862262,
+                        "lng" : 144.7469522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 344
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -37.87123440000001,
+                        "lng" : 144.7469826
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWallace Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "xddfFqgnrZBb@?DAD?B?DAHADCHCDA@GFQHiA\\o@NUHmBp@aA\\u@Va@VGDEFCFCFAHAJ?H@N@H"
+                     },
+                     "start_location" : {
+                        "lat" : -37.8735727,
+                        "lng" : 144.748886
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "tjkfFazrrZt@gAgBcC|@iAtEhGZb@Zh@Vp@Pz@Hr@B|@A^QlC{@vQeA|Su@hNk@bLw@`Oo@`MUbC]vCG~BOdBS@sAImBUqAUOIeFq@cJ{@gC[}I}@sC[cFi@cD_@cD]_Fg@o@GYB]?{BO]?a@DIHKDO?KGKMq@Wk@IqBYqDe@{Dk@q@OUIkC[yFm@yGw@qCYsBOqAIi@Be@Gq@GMH}@XGx@EJGFG^SjBObBo@dMMbC?B@`AB~BDH?NCJGFm@fKY`Ea@G_BQmBSeBSoD[iBK_Gc@eCSmCa@yEq@}AOsCWk@EyJcAkDSiCKuBAaADBb@AJCXGNIHaD`AoDnAu@Va@VMLCFEPATBX"
+         },
+         "summary" : "Saltwater Promenade and Point Cook Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
